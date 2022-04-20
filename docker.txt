@@ -1,0 +1,5 @@
+docker pull 映像黨
+ ex docker pull ubuntu:18.04
+ docker images(查詢印象黨)
+ docker pull centos (:"  ")沒打就是最新
+ docker run -d ubuntu:日期

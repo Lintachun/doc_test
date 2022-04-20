@@ -1,0 +1,6 @@
+git add .
+git commit -m "  "
+git push
+git pull
+git checkout 哈希直 
+git checkout main
