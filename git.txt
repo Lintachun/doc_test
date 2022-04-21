@@ -1,6 +1,11 @@
 git add .
 git commit -m "  "
 git push
+指令傳上雲端
+------------------------
 git pull
 git checkout 哈希直 
+------------------------
 git checkout main
+最新版本
+------------------------
